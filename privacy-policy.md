@@ -8,13 +8,13 @@ Privacy and online safety are extremely import to Hydal. We offer a platform for
 In this privacy policy, we sometimes refer to “You”. “__You__” may be a visitor to one of our websites, a user of one or more of our Services (“__User__”). We’ll do our best to clarify who we are referring to at various points in the policy. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://github.com/hydal/policies) that describes in detail how we use cookies and similar technologies.
 
 
-1. Overview
+### 1. Overview
 
 The Data we collect depends on how our Services are used. Sometimes we receive Data directly, such as when a Hydal account is created, or we receive an email. Other times, we get Data by recording interactions with our Services, for example, cookies. We also get Data from third parties, like our identity verification services. The collection of and use of data is essential for our ability to provide our Services, and to help keep the Services safe.
 
 
 
-2. Data We Collect
+### 2. Data We Collect
 
 __a. Personal Data__. We call Data that identifies, or that could reasonably be used to identify, You as an
 individual “__Personal Data__”. We receive Personal Data from identity verification services. Personal Data does
@@ -33,7 +33,7 @@ use of our website. Other Data that we may collect include:
 * __Cookie and tracking technology data__, such as pages visited.
 
 
-3. How We Use Data
+### 3. How We Use Data
 
 __a. Personal Data__. We use Personal Data to: (i) provide the Services; (ii) promote, analyze and improve
 our products, systems and tools. Examples of how we may use Personal Data include:
@@ -53,7 +53,7 @@ under this privacy policy.
 
 
 
-4. How We Disclose Data
+### 4. How We Disclose Data
 
 Hydal does not sell or rent Personal Data to marketers or untrusted third parties. The only Personal Data
 we share with trusted third parties includes:
@@ -68,7 +68,7 @@ __b. Safety, Legal Purposes and Law Enforcement__. We use and disclose Data as w
   authorities, which may include authorities outside Your country of residence.
 
 
-5. Security
+### 5. Security
 
 We use reasonable organizational, technical and administrative measures to protect Personal Data within
 our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.
@@ -76,12 +76,12 @@ If You have reason to believe that Your interaction with us is no longer secure 
 that the security of Your account or the Website has been compromised), please [contact us](https://hydal.xyz) immediately.
 
 
-6. Advertising.
+### 6. Advertising.
 
 We do not serve any advertisements, nor do we share any data with third-party advertising companies.
 
 
-7. Choice and Access
+### 7. Choice and Access
 
 You have chocies regarding our use and disclosure of Your Personal Data.
 
@@ -103,19 +103,19 @@ and we may need to verify Your identity before implementing Your request. We wil
 with Your request as soon as reasonably practicable.
 
 
-8. Retention Period
+### 8. Retention Period
 
 We will retain Personal Data for the period necessary to fulfill the purposes outlined in this Privacy
 Policy unless a longer retention period is required or permitted by law.
 
 
-9. Use of Services by Minors
+### 9. Use of Services by Minors
 
 The Services are not directed to individuals under the age of thirteen (13), and we request that they not
 provide Personal Data through the Services.
 
 
-10. Jurisdiction and Cross-Border Transfer
+### 10. Jurisdiction and Cross-Border Transfer
 
 Our services are global and Data (including Personal Data) may be stored and processed in any country where
 we have operations or where we engage service providers, and we may transfer Data to countries outside of
@@ -126,7 +126,7 @@ described in this privacy policy. In certain circumstances, courts, law enforcem
 agencies or security authorities in those other countries may be entitled to access Your Personal Data.
 
 
-11. Hydal as a Data Processor
+### 11. Hydal as a Data Processor
 
 We may collect, use and disclose certain Personal Data about Customers when acting as the User’s service
 provider. Our Users are responsible for making sure that the Customer’s privacy rights are respected,
@@ -135,7 +135,7 @@ we are acting as a User’s data processor, we will process Personal Data in acc
 our agreement with the User and the User’s lawful instructions.
 
 
-13. Updates to this Privacy Policy and Notifications
+### 13. Updates to this Privacy Policy and Notifications
 
 We may change this Privacy Policy. The “Last updated” legend at the top of this Privacy Policy indicates
 when this Privacy Policy was last revised. Any changes are effective when we post the revised Privacy Policy
@@ -149,7 +149,7 @@ Personal Data shall be considered to be received by You within 24 hours of the t
 our website or, in the case of Users, sent to through one of means listed in this paragraph.
 
 
-14. Contact Us
+### 14. Contact Us
 
 If You have any questions about this Privacy Policy, please contact via our [Contact Form](https://hydal.xyz) or at:
 
