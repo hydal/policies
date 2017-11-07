@@ -16,7 +16,7 @@ The Data we collect depends on how our Services are used. Sometimes we receive D
 
 2. Data We Collect
 
-a. __Personal Data__. We call Data that identifies, or that could reasonably be used to identify, You as an
+__a. Personal Data__. We call Data that identifies, or that could reasonably be used to identify, You as an
 individual “__Personal Data__”. We receive Personal Data from identity verification services. Personal Data does
 not include Data that has been aggregated or made anonymous such that it can no longer be reasonably
 associated with a specific person. The Personal Data that we may collect includes:
@@ -31,3 +31,22 @@ use of our website. Other Data that we may collect include:
   screen resolution, operating system name and version, device manufacturer and model, and language.
 
 * __Cookie and tracking technology data__, such as pages visited.
+
+
+3. How We Use Data
+
+__a. Personal Data__. We use Personal Data to: (i) provide the Services; (ii) promote, analyze and improve
+our products, systems and tools. Examples of how we may use Personal Data include:
+
+* To respond to inquiries, send service notices and provide customer support;
+* To develop new products;
+* To send marketing communications;
+* To improve or modify our Services; and
+* To conduct aggregate analysis and develop business intelligence that enable us to operate, protect,
+  make informed decisions, and report on the performance of, our business.
+
+__b. Other Data__. We may use Other Data for a range of different purposes, provided we comply with
+applicable law. In some countries (for example, European Economic Area countries), local legal regimes
+may require us to treat some or all of Other Data as “personal data” under applicable data protection
+laws. Where this is the case, we will process Other Data only for the same purposes as Personal Data
+under this privacy policy.
