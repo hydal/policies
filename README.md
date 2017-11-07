@@ -5,5 +5,5 @@
 
 Policies to add
 
-- [ ] Privacy Policy
+- [x] Privacy Policy
 - [ ] Cookie Policy
