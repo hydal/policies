@@ -5,7 +5,7 @@ Last updated: November 6, 2017
 
 Privacy and online safety are extremely import to Hydal. We offer a platform for discovering products at at low prices across retailers. We collect data about our users when they use our platform. This privacy policy describes how we collect, use and disclose Data.
 
-In this privacy policy, we sometimes refer to “You”. “__You__” may be a visitor to one of our websites, a user of one or more of our Services (“__User__”). We’ll do our best to clarify who we are referring to at various points in the policy. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://github.com/hydal/policies) that describes in detail how we use cookies and similar technologies.
+In this privacy policy, we sometimes refer to “You”. “__You__” may be a visitor to one of our websites, a user of one or more of our Services (“__User__”). We’ll do our best to clarify who we are referring to at various points in the policy. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer after leaving our website, and (b) discontinue Your use of our Services. Finally, we have also put together a [Cookie Policy](https://github.com/hydal/policies/master/cookie-policy.md) that describes in detail how we use cookies and similar technologies.
 
 
 ### 1. Overview.
