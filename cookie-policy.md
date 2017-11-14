@@ -49,3 +49,17 @@ cookies, some features of our website or Services may not operate as intended.
 ### 3. Cookie Table
 
 Cookies that we use are listed below.
+
+**Hydal cookies**
+
+| Cookie Name | Purpose | Persistant or Session |
+| ----------- | ------- | --------------------- |
+| connect.sid | Provides a unique session identifier for authentication | Persistant |
+| jwt         | Provides a unique session identifier for authentication | Persistant |
+
+**Third party cookies**
+
+| Cookie Name | Purpose | Opt out link |
+| ----------- | ------- | --------------------- |
+| Cloudflare  | Used for analytics and service improvement | |
+| Mixpanel    | Used for analytics and service improvement | [mixpanel.com/optout](https://mixpanel.com/optout) |
