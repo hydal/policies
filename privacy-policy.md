@@ -1,5 +1,5 @@
 # Privacy Policy - Worldwide
-Last updated: November 6, 2017
+Last updated: November 21, 2017
 
 #### Welcome!
 
@@ -73,7 +73,7 @@ __b. Safety, Legal Purposes and Law Enforcement__. We use and disclose Data as w
 We use reasonable organizational, technical and administrative measures to protect Personal Data within
 our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.
 If You have reason to believe that Your interaction with us is no longer secure (for example, if You feel
-that the security of Your account or the Website has been compromised), please [contact us](https://hydal.xyz) immediately.
+that the security of Your account or the Website has been compromised), please [contact us](https://hydal.xyz/contact) immediately.
 
 
 ### 6. Advertising.
@@ -94,7 +94,7 @@ __a. Opting out of receiving electronic communications from us__. If You no long
 
 __b. How You can access or change Your Personal Data__. If You would like to review, correct,
    or update Personal Data that You have previously disclosed to us, You may do so by
-   signing in to Your Hydal account or by [contacting us](https://hydal.xyz).
+   signing in to Your Hydal account or by [contacting us](https://hydal.xyz/contact).
 
 If emailing us Your request, please make clear in the email what Personal Data You would
 like to have changed. For Your protection, we may only implement requests with respect to the
@@ -151,9 +151,12 @@ our website or, in the case of Users, sent to through one of means listed in thi
 
 ### 14. Contact Us.
 
-If You have any questions about this Privacy Policy, please contact via our [Contact Form](https://hydal.xyz) or at:
+If You have any questions about this Privacy Policy, please contact via our [Contact Form](https://hydal.xyz/contact) or at:
 
-Hydal Ltd
+Hydal, Ltd    
+1 Northumberland Buildings  
+Bath, England  
+BA1 2JB  
 
 Sensitive Information. Because email communications are not always secure, please do not include credit card
 or other sensitive Data (such as racial or ethnic origin, political opinions, religion, health, or the like)
